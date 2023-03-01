@@ -1,4 +1,8 @@
 body {
     font-family: "Georgia", Times, serif;
-}
+    color: #000000;
+    line-height: 140%;
+margin: 30px 30px 30px 30px;
 
+background-color: #F7F3DE;
+}
