@@ -14,5 +14,40 @@ padding: 40px;
 padding-left: 120px;
 background-image: url(images/header- image-1.gif);
 background position: left top; 
-background-repeat: no repeat;
-)
+background-repeat: no-repeat;
+}
+
+#container{
+    margin: 30px 
+}
+
+nav ul { 
+padding:0;
+margin 0;
+list-style-type:none;
+color: #7c1a00
+}
+
+nav li{ 
+    margin: 10px;
+    border-width: 1px;
+border-style: solid;
+border-color: #7c1a00;
+background-color: #ffe597;
+}
+
+nav a {
+color: white;
+    background-color: #8c9273;
+    padding: 3px
+    padding-right: 60px
+    text-decoration: none;
+}
+
+nav a:hover{ 
+    background-color: #7c1a00
+}
+
+#content{
+    backgound-image: trans-bg.gif;
+    border: 1px
