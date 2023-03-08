@@ -3,14 +3,16 @@ body {
     color: #000000;
     line-height: 140%;
 margin: 30px 30px 30px 30px;
-
+background-image: url("paper.gif");
 background-color: #F7F3DE;
 }
+
 header(
 font-size: 350%;
 color: #7c1a00
 padding: 40px;
-padding left: 120px;
-background image: url(images/header- image-1.gif);
-background position: left top;    
+padding-left: 120px;
+background-image: url(images/header- image-1.gif);
+background position: left top; 
+background-repeat: no repeat;
 )
