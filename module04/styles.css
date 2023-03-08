@@ -50,4 +50,18 @@ nav a:hover{
 
 #content{
     backgound-image: trans-bg.gif;
-    border: 1px
+    border: 1px;
+    margin-left:100px;
+    padding:10px;
+}
+
+footer{ 
+    clear: both; 
+    text-align: center;
+}
+
+footer{
+    display: inline;
+    padding: 10px;  
+}
+
