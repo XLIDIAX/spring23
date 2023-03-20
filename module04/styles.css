@@ -65,3 +65,40 @@ footer{
     padding: 10px;  
 }
 
+h1 { 
+    color: #8c9273;
+}
+
+h2 {
+    border-left: 20px;
+    border-left-style: solid;
+    border-left-color: #8c9273;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: #8c9273;
+    padding-left: 5px;
+}
+
+h3 {
+    Background-image: url(images/header-star-1.gif)
+    padding-left: 20px;
+}
+
+blockquote {
+    background-color: #ffe597;
+}
+
+ul {
+    list-style: square;
+}
+
+a {
+    color: #7c1a00;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #ffe597;
+}
+
+
